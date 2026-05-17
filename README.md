@@ -18,7 +18,7 @@ Uygulama, temel envanter yönetimi süreçlerini dijitalleştirerek manuel takib
 * **Arayüz:** Windows Forms
 
 ## 📸 Ekran Görüntüleri
-1. **Giriş Ekranı:** ![Giriş]<img 
+1. **Giriş Ekranı:** ![Giriş]
 2. **Ana Yönetim Paneli:** ![Ana Panel] 
 3. **Ürün İşlemleri Sayfası:** ![Ürünler] 
 ## 📖 Kullanım Talimatları
