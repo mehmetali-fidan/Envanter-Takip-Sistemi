@@ -19,7 +19,7 @@ Uygulama, temel envanter yönetimi süreçlerini dijitalleştirerek manuel takib
 
 ## 📸 Ekran Görüntüleri
 1. **Giriş Ekranı:** ![Giriş](ekran_goruntusu_linki_1)
-2. **Ana Yönetim Paneli:** ![Ana Panel](ekran_goruntusu_linki_2)
+2. **Ana Yönetim Paneli:** ![Ana Panel]("https://github.com/user-attachments/assets/81d4002c-748b-4f00-8fc8-a3836044f600")
 3. **Ürün İşlemleri Sayfası:** ![Ürünler](ekran_goruntusu_linki_3)
 
 ## 📖 Kullanım Talimatları
