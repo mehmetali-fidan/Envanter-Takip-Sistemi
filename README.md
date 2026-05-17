@@ -18,7 +18,7 @@ Uygulama, temel envanter yönetimi süreçlerini dijitalleştirerek manuel takib
 * **Arayüz:** Windows Forms
 
 ## 📸 Ekran Görüntüleri
-1. **Giriş Ekranı:** ![Giriş](ekran_goruntusu_linki_1)
+1. **Giriş Ekranı:** ![Giriş](<img width="830" height="518" alt="Ekran görüntüsü 2026-05-15 205021" src="https://github.com/user-attachments/assets/b9215bbe-a961-4536-911d-870864b29561" />)
 2. **Ana Yönetim Paneli:** ![Ana Panel]("https://github.com/user-attachments/assets/81d4002c-748b-4f00-8fc8-a3836044f600")
 3. **Ürün İşlemleri Sayfası:** ![Ürünler](ekran_goruntusu_linki_3)
 
