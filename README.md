@@ -38,6 +38,8 @@ Uygulama, temel envanter yönetimi süreçlerini dijitalleştirerek manuel takib
 * <img width="830" height="518" alt="Ekran görüntüsü 2026-05-15 205021" src="https://github.com/user-attachments/assets/b9215bbe-a961-4536-911d-870864b29561" />
 <img width="881" height="522" alt="Ekran görüntüsü 2026-05-15 205042" src="https://github.com/user-attachments/assets/81d4002c-748b-4f00-8fc8-a3836044f600" />
 <img width="1180" height="610" alt="Ekran görüntüsü 2026-05-15 205101" src="https://github.com/user-attachments/assets/2df0ff3e-f0fc-418d-840b-e2acacc9f8d1" />
-
+HAZIRLAYAN=MEHMET ALİ FİDAN
+NUMARA=2024212026
+SINIF=2
 
 
